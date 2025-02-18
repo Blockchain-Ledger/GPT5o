@@ -1,0 +1,55 @@
+[
+    {
+        "name": "ADMIN_API_CLIENT_ID",
+        "value": "d6ScnQskOCntCxt3"
+    },
+    {
+        "name": "ADMIN_API_CLIENT_ID_FINNAI",
+        "value": "FINNAIOTOROSHILLM"
+    },
+    {
+        "name": "ADMIN_API_CLIENT_SECRET",
+        "value": "ZVWqHEnsoN00EfgvXLpQB4FRXUCQPmz0"
+    },
+    {
+        "name": "ADMIN_API_CLIENT_SECRET2",
+        "value": "aLNo6QV5kPB3ATpBxa8FKekRvV5CO1Cq"
+    },
+    {
+        "name": "ADMIN_API_EXPOSED_SUBDOMAIN",
+        "value": "teqnjitubqpyikwzgntv-otoroshi"
+    },
+    {
+        "name": "ADMIN_API_EXPOSED_SUBDOMAIN2",
+        "value": "FINN-otoroshi-LLM"
+    },
+    {
+        "name": "ADMIN_API_GROUP",
+        "value": "22adAWCFr44wilQ9"
+    },
+    {
+        "name": "ADMIN_API_GROUP2",
+        "value": "FcjCChlIeT2yxU7U"
+    },
+    {
+        "name": "ADMIN_API_SERVICE_ID",
+        "value": "gljyWRb7jghc8cdZ"
+    },
+    {
+        "name": "ADMIN_API_SERVICE_ID2",
+        "value": "GCjs2DLlYpRe7m7u"
+    },
+    {
+        "name": "ADMIN_API_TARGET_SUBDOMAIN",
+        "value": "rfbcxiyouajyouwpjzha-otoroshi"
+    },
+    {
+        "name": "ADMIN_API_TARGET_SUBDOMAIN2",
+        "value": "mrkmvkxgjeptpqhlrszr-otoroshi"
+    },
+    {
+        "name": "APP_BACKOFFICE_SUBDOMAIN",
+        "value": "navsaioczpensqgpevhd-otoroshi"
+    },
+    {
+        "name": "APP_BACKOFFICE_SUBDOMAIN2",
